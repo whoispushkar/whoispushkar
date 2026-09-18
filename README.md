@@ -19,9 +19,6 @@
   <a href="https://github.com/whoispushkar?tab=followers">
     <img src="https://img.shields.io/github/followers/whoispushkar?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/whoispushkar?tab=repositories">
-    <img src="https://img.shields.io/github/repos/whoispushkar?label=Repositories&style=flat&logo=github" alt="Repositories"/>
-  </a>
 </p>
 
 <p>
