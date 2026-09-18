@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="./assets/profile-banner.png.png"
     alt="Pushkar Sharma Profile Banner"
     width="100%"
   />
