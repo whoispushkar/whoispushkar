@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Pushkar Sharma Profile Banner"
+    width="100%"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Pushkar Sharma</h1>
 <h3 align="center">CSE Student | DSA in C++ | Exploring AI/ML & Building My Skills</h3>
 
