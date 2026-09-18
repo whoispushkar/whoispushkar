@@ -1,46 +1,41 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Pushkar Sharma</h1>
+<h3 align="center">CSE Student | DSA in C++ | Exploring AI/ML & Building My Skills</h3>
 
-# Hi 👋, I'm Pushkar Sharma
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoispushkar&label=Profile%20views&color=0e75b6&style=flat" alt="whoispushkar" /> </p>
 
-### CSE Student | Problem Solver | DSA • C++ • AI/ML
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoispushkar" alt="whoispushkar" /></a> </p>
 
-<p>
-  <a href="https://github.com/whoispushkar">
-    <img src="https://komarev.com/ghpvc/?username=whoispushkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+- 🔭 I’m currently working on **AI/ML projects, Data Structures & Algorithms in C++**
 
-  <a href="https://github.com/whoispushkar?tab=followers">
-    <img src="https://img.shields.io/github/followers/whoispushkar?label=Followers&style=flat" alt="Followers"/>
-  </a>
+- 🌱 I’m currently learning **DSA, C++, Python and Deep Learning**
 
-  <a href="https://github.com/whoispushkar?tab=repositories">
-    <img src="https://img.shields.io/github/repos/whoispushkar?label=Repositories&style=flat" alt="Repositories"/>
-  </a>
+- 👯 I’m looking to collaborate on **Open-source projects and interesting C++/Python/AI/ML projects**
 
-  <img src="https://img.shields.io/github/stars/whoispushkar?label=Total%20Stars&style=flat" alt="Stars"/>
+- 👨‍💻 All of my projects are available at [https://github.com/whoispushkar](https://github.com/whoispushkar)
+
+- 💬 Ask me about **C++, DSA, Python, AI/ML, DL and my journey in Computer Science**
+
+- 📫 How to reach me **pushkar0692@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/pushkar-sharma-244272374/](https://www.linkedin.com/in/pushkar-sharma-244272374/)
+
+- ⚡ Fun fact **I think I am funny and an enjoyable person**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pushkar-sharma-244272374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-sharma-244272374" height="30" width="40" /></a>
+<a href="https://instagram.com/_whoispushkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_whoispushkar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/whois_pushkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whois_pushkar" height="30" width="40" /></a>
 </p>
 
-<p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoispushkar&show_icons=true&locale=en&layout=compact" alt="whoispushkar" /></p>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoispushkar&show_icons=true&locale=en" alt="whoispushkar" /></p>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoispushkar&" alt="whoispushkar" /></p>
 
 ```cpp
 class Pushkar {
