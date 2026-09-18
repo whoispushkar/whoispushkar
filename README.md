@@ -4,7 +4,8 @@
     alt="Pushkar Sharma Profile Banner"
     width="100%"
   />
-</p> 
+</p>
+
 <div align="center">
 
 # Hi 👋, I'm Pushkar Sharma
@@ -19,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/whoispushkar?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/whoispushkar?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-181717?style=flat&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/github/repos/whoispushkar?label=Repositories&style=flat&logo=github" alt="Repositories"/>
   </a>
 </p>
 
@@ -32,6 +33,9 @@
   </a>
   <a href="mailto:pushkar0692@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/whoispushkar">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -61,5 +65,4 @@ public:
     string goal =
         "Become a strong software engineer by building, "
         "solving problems and continuously learning.";
-
 };
